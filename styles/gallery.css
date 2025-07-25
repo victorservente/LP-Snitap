@@ -34,7 +34,11 @@ section.gallery {
 
     animation: image-appear linear backwards;
     animation-timeline: view();
-    animation-range: 100px 350px;
+    animation-range: 100px 300px;
+
+    &[data-delay] {
+      animation-range: 150px 350px;
+    }
 
     & > img {
       height: 25rem;
@@ -120,4 +124,9 @@ section.gallery {
     max-width: 320px;
     height: 17.5rem;
   }
+  
+  section.gallery {
+    padding: 1.5rem 1.5rem;
+  }
+
 }

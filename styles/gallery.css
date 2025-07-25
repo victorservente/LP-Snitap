@@ -107,7 +107,7 @@ section.gallery {
 }
 
 @media (max-width: 79em) {
-  header {
+  header.top {
     display: flex;
     flex-direction: column;
   }

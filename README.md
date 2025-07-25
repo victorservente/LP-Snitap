@@ -11,10 +11,10 @@ Google Fonts
 💻 Project This is a responsive web page of a fictitious product. Snitap is a responsive Landing Page for selling and promoting roller skates.
 It contains the following sections:
 
-Navigation
-Hero
-Animate Banner
-Photo Gallery
-Footer
+- Navigation
+- Hero
+- Animate Banner
+- Photo Gallery
+- Footer
 
 ![Screenshot LP Patins](https://github.com/user-attachments/assets/6854f1f8-31ef-49be-9f8e-c79da401b4c7)

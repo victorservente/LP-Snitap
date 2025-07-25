@@ -1,14 +1,14 @@
 In this project, I developed a responsive Landing Page for a roller skates brand with many animations and transitions! 
 This is one of the projects developed in class during the Full-stack training. Check it out!
 
-🚀 Technologies This project was developed with the following technologies:
+🚀 Technologies:
+> This project was developed with the following technologies:
+- HTML
+- CSS
+- Data Library
 
-HTML
-CSS
-Data Library
-
-Google Fonts
-💻 Project This is a responsive web page of a fictitious product. Snitap is a responsive Landing Page for selling and promoting roller skates.
+Google Fonts:
+> 💻 Project This is a responsive web page of a fictitious product. Snitap is a responsive Landing Page for selling and promoting roller skates.
 It contains the following sections:
 
 - Navigation
